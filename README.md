@@ -1,6 +1,6 @@
 # WASM Talk
 
-Package wasmtalk contains helper types and functions for writting go based scripts and hooks for (CartJumper)[https://cartjumper.com], and [FreightChick](https://freightchick.com).
+Package wasmtalk contains helper types and functions for writting go based scripts and hooks for [CartJumper](https://cartjumper.com), and [FreightChick](https://freightchick.com).
 
 ## Protocol
 
