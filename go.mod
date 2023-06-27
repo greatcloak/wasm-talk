@@ -1,3 +1,3 @@
-module gitlab.greatcloak.net/greatcloak/wasm-talk
+module github.com/greatcloak/wasm-talk
 
 go 1.20
