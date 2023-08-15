@@ -1,3 +1,3 @@
 module github.com/greatcloak/wasm-talk
 
-go 1.20
+go 1.21
